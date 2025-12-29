@@ -6,11 +6,20 @@ Welcome to your personal memory training program!
 
 This repository contains scientifically-backed exercises and techniques to help you improve your memory and cognitive abilities.
 
-### Files
+### 👨‍👩‍👧 Choose Your Path
 
+**For Adults & Teens (13+)**:
 - **[MEMORY_TRAINING_EXERCISES.md](MEMORY_TRAINING_EXERCISES.md)** - Complete guide with 12+ exercises and techniques
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick reference cheat sheet
 - **[daily_practice.md](daily_practice.md)** - Your daily practice tracker
 - **[practice_materials/](practice_materials/)** - Ready-to-use practice exercises
+
+**For Kids (Ages 5-13)** 🎮:
+- **[MEMORY_TRAINING_FOR_KIDS.md](MEMORY_TRAINING_FOR_KIDS.md)** - Fun memory games organized by age
+- **[kids_practice_materials.md](kids_practice_materials.md)** - Kid-friendly practice exercises
+  - Ages 5-7: Simple, colorful exercises with animals, colors, toys
+  - Ages 8-10: Story memory, dinosaurs, geography
+  - Ages 11-13: Advanced challenges, timelines, complex sequences
 
 ## Quick Start
 
@@ -43,6 +52,10 @@ This repository contains scientifically-backed exercises and techniques to help 
 
 ## Getting Started Today
 
-Open `MEMORY_TRAINING_EXERCISES.md` and try the Number Sequence Challenge right now!
+**Adults/Teens**: Open `MEMORY_TRAINING_EXERCISES.md` and try the Number Sequence Challenge!
+
+**Kids**: Open `MEMORY_TRAINING_FOR_KIDS.md` and find games for your age!
+
+**Parents**: Both versions include guidance for helping your child develop strong memory skills.
 
 Good luck with your memory training journey! 🧠
